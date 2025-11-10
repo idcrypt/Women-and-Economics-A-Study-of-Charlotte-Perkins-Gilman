@@ -1,19 +1,22 @@
-# BUKU AI SD/MI Kelas 5 Semester 1: Belajar Logika, Coding Visual, Literasi Digital, dan AI
-Aolia Ikhwanudin
-Onno W. Purbo
-Institut Teknologi Tangerang Selatan (ITTS)
-2025
+This ebook is the product of many hours of hard work by volunteers
+for Standard Ebooks, and builds on the hard work of other literature
+lovers made possible by the public domain.
 
-Lisensi & Catatan Karya
-Karya ini dilisensikan di bawah lisensi Creative Commons Attribution-ShareAlike 4.0
-International (CC BY-SA 4.0).
-Artinya, siapa pun bebas untuk menggunakan, menyalin, membagikan, dan mengadaptasi materi ini, dengan syarat:
-● Memberikan atribusi yang sesuai (menyebut sumber asli),
-● Menyertakan lisensi yang sama jika dimodifikasi atau dikembangkan lebih lanjut.
-Lihat detail lisensi di sini https://creativecommons.org/licenses/by-nd/4.0/legalcode.id
-Desain Cover: Irwan Siswanto
+This particular ebook is based on a transcription from Project
+Gutenberg and on digital scans from the Internet Archive.
 
-Disclaimer
-Materi pembelajaran ini dibuat dengan dana swadaya masyarakat Indonesia dan kontribusi sukarela dari para dosen di Institut Teknologi Tangerang Selatan (ITTS).
-Karya ini didistribusikan secara bebas untuk mendukung pendidikan digital dan kecerdasan buatan di kalangan pelajar Indonesia.
-Kami memohon maaf jika terdapat kekurangan dalam isi maupun penyajian materi ini. Kritik dan saran sangat kami harapkan untuk terus menyempurnakan karya serupa di masa depan.
+The source text and artwork in this ebook are believed to be in the
+United States public domain; that is, they are believed to be free of
+copyright restrictions in the United States. They may still be
+copyrighted in other countries, so users located outside of the
+United States must check their local laws before using this ebook.
+The creators of, and contributors to, this ebook dedicate their
+contributions to the worldwide public domain via the terms in the
+CC0 1.0 Universal Public Domain Dedication. For full license
+information, see the Uncopyright at the end of this ebook.
+
+Standard Ebooks is a volunteer-driven project that produces ebook
+editions of public domain literature using modern typography,
+technology, and editorial standards, and distributes them free of
+cost. You can download this and other ebooks carefully produced for
+true book lovers at standardebooks.org.
